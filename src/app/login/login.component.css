@@ -1,0 +1,27 @@
+.login-form {
+    background: #f2f2f2;
+    padding: 30px;
+}
+
+.login-form input {
+    margin-bottom: 10px;
+}
+
+.login-form button {
+    margin: 20px 0;
+}
+
+.epam-logo img {
+    height: 45px;
+    width: 125px;
+}
+.epam-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.password{
+    height:39px;
+}
